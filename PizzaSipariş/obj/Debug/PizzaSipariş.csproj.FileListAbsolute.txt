@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\PizzaSipariş\PizzaSipariş\bin\Debug\PizzaSipariş.exe.config
+C:\Users\Eren\source\repos\PizzaSipariş\PizzaSipariş\bin\Debug\PizzaSipariş.exe
+C:\Users\Eren\source\repos\PizzaSipariş\PizzaSipariş\bin\Debug\PizzaSipariş.pdb
+C:\Users\Eren\source\repos\PizzaSipariş\PizzaSipariş\obj\Debug\PizzaSipariş.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\PizzaSipariş\PizzaSipariş\obj\Debug\PizzaSipariş.Form1.resources
+C:\Users\Eren\source\repos\PizzaSipariş\PizzaSipariş\obj\Debug\PizzaSipariş.Properties.Resources.resources
+C:\Users\Eren\source\repos\PizzaSipariş\PizzaSipariş\obj\Debug\PizzaSipariş.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\PizzaSipariş\PizzaSipariş\obj\Debug\PizzaSipariş.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\PizzaSipariş\PizzaSipariş\obj\Debug\PizzaSipariş.exe
+C:\Users\Eren\source\repos\PizzaSipariş\PizzaSipariş\obj\Debug\PizzaSipariş.pdb
